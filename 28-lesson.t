@@ -15,3 +15,5 @@ WPA2 - xozir gi kunda keng tarqalgan va xavfsizlik jihatidan yaxshirog'i
 Cript = AES
 key rotation = Dynamic session key
 Authentification = 802.1x & EAP supported
+
+WPA va WPA2 tarmog'iga hujum qilinsa default xolatda shu ip manzilni block qiladi
