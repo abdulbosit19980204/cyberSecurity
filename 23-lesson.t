@@ -9,3 +9,4 @@ bu mode da internetdan foydalanish cheklanadi agar wifi adapter ikkita bolmasa
 Tarmoqlar bilan bog'liq ma'lumotlarni toplash
 
 sudo airmon-ng start wlan0 -mode ni almashtirish
+

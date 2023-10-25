@@ -4,3 +4,4 @@ to change mac address we can use default tool macchanger on kali
 to do this 
 macchanger -h / --help
 sudo macchanger -r networkName (eth0)
+
